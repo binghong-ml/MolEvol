@@ -37,6 +37,8 @@ You should install dependencies for chemprop and multiobj-rationale first.
     pip install -e .
     cd ../MolEvol
     
+Also, please download the [model files](https://www.dropbox.com/sh/55l78nfncxm501i/AADqRplfNekGPfg4xGy9V48Va?dl=0) into the root directory.
+    
 ## How to Use
 For instance, if you want to jointly optimize jnk3, gsk3, QED, SA for the molecules.
 
